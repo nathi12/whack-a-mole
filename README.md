@@ -1,4 +1,4 @@
 ## whack a mole
 
 
-## click <a href="https://whack-a-mole-9xu9.onrender.com">here</a> to try it
+## click <a href="https://whack-a-mole-sable.vercel.app/">here</a> to try it 
